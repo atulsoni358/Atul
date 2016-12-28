@@ -1,0 +1,11 @@
+var bool1 =true
+
+undefined
+
+var bool2 = bool1
+
+undefined
+
+bool1
+
+true

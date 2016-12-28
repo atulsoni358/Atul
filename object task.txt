@@ -1,0 +1,27 @@
+var obj= {name: 'atul', age:23}
+
+undefined
+
+var obj1=obj
+
+undefined
+
+obj1
+
+Object {name: "atul", age: 23}
+
+obj1.name
+
+"atul"
+
+obj1.age
+
+23
+
+obj1.name="sanchit"
+
+"sanchit"
+
+obj1
+
+Object {name: "sanchit", age: 23}

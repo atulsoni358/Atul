@@ -1,0 +1,23 @@
+var a = 5
+
+undefined
+
+typeof a
+
+"number"
+
+var b = a
+
+undefined
+
+b
+
+5
+
+b=6
+
+6
+
+a
+
+5

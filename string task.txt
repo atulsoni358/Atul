@@ -1,0 +1,28 @@
+var str1 = "atul"
+
+undefined
+
+str1
+
+"atul"
+
+var str2 = "sanchit"
+
+undefined
+
+var str2 = str1
+
+undefined
+
+
+str2
+
+"atul"
+
+str1
+
+"atul"
+
+str2 = "sanchit"
+
+"sanchit"
